@@ -1,0 +1,16 @@
+product_id,product_name,category,unit_price,unit_cost
+P-100,Wireless Headphones,Electronics,79.99,42.0
+P-101,Bluetooth Speaker,Electronics,49.99,26.5
+P-102,Smart Watch,Electronics,199.99,118.0
+P-103,Running Shoes,Footwear,89.95,47.0
+P-104,Trail Boots,Footwear,129.95,71.0
+P-105,Cotton T-Shirt,Apparel,24.99,9.5
+P-106,Denim Jacket,Apparel,69.99,31.0
+P-107,Yoga Mat,Fitness,34.99,14.0
+P-108,Dumbbell Set 20lb,Fitness,59.99,33.0
+P-109,Coffee Maker,Home,89.99,48.0
+P-110,Ceramic Dinner Set,Home,64.99,30.0
+P-111,LED Desk Lamp,Home,39.99,17.5
+P-112,Backpack 25L,Accessories,54.99,24.0
+P-113,Sunglasses,Accessories,44.99,15.0
+P-114,Water Bottle 1L,Accessories,19.99,7.0
